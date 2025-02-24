@@ -1,3 +1,3 @@
 # Simple calculator
 
-[demo](./planning/total.gif)
+![demo](./planning/dema.gif)
