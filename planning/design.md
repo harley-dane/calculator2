@@ -3,7 +3,7 @@
 ## Project's design overview
 
 > Give an overview of your project's design
-- [design](./dema.gif)
+- ![design](./design2.gif)
 
 <!-- give an overview of your project's design -->
 <!-- describe the reasoning behind your group's design and wireframe -->
